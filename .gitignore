@@ -13,3 +13,7 @@ Frontend/.env
 Frontend/node_modules
 
 node_modules
+
+*.env.bak
+.env
+.env.*
